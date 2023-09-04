@@ -1,4 +1,5 @@
 #!/bin/bash
+echo "Hello"
 echo "Enter n value"
 sum=0
 while [$n -gt 0 ]; do
